@@ -1,0 +1,4 @@
+{
+  "port": "3100",
+  "mongodbUrl": "mongodb+srv://root:amit1234@cluster0.pgjx7.mongodb.net/ecommerce-micro"
+}
